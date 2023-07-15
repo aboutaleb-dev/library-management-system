@@ -17,8 +17,8 @@ Doing the process for borrowing book library by users, adding book and its stock
 ## Admin Features
 
 - **Add/update/delete book.**
-- **Add borrowed returned.**
-- **Get user costs (this will total costs plus each book cost)**
+- **Add borrowed book returned.**
+- **Get user costs (this will return total costs plus each book cost).**
 - **Activate/deactivate user.**
 
 ## .env File
