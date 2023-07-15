@@ -80,13 +80,13 @@ If you want to start using this code follow the stpes:
 Clone this repository
 
 ```
-git clone 
+git clone https://github.com/aboutaleb-dev/library-management-system.git
 ```
 
 Go to project folder
 
 ```
-cd
+cd library-management-system
 ```
 
 Install composer dependencies
