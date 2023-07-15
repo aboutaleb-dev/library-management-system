@@ -1,5 +1,3 @@
-<p align="center">Library Management System</p>
-
 ## About Library Management System
 
 Library Management System is a personal project to show my skills I built this project with Laravel.
@@ -154,4 +152,4 @@ If you want to fresh and seed database
 
 ```
 php artisan migrate:fresh --seed
-``
+```
