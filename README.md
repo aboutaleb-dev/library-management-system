@@ -4,7 +4,7 @@ Library Management System is a personal project to show my skills I built this p
 
 Short description:
 Doing the process for borrowing book library by users, adding book and its stock and etc. by admins, adding cost for each book if it returned with delay, user can only have limited number of book simultaneously, and more configs that can be added via .env file that can be found in [.env File](#.env-file) section.
-[Instalation](#installation)
+[Installation](#installation)
 [Postman Api](#postman-api)
 
 ## User Features
