@@ -4,7 +4,8 @@ Library Management System is a personal project to show my skills I built this p
 
 Short description:
 Doing the process for borrowing book library by users, adding book and its stock and etc. by admins, adding cost for each book if it returned with delay, user can only have limited number of book simultaneously, and more configs that can be added via .env file that can be found in [.env File](#.env-file) section.
-[Instalation Guide](#installation-guide)
+[Instalation](#installation)
+[Postman Api](#postman-api)
 
 ## User Features
 
@@ -153,3 +154,8 @@ If you want to fresh and seed database
 ```
 php artisan migrate:fresh --seed
 ```
+
+## Postman Api
+
+You can find postman collection file in postman/collections folder.
+This postman collection has all of apis requests with their method, body, etc.
