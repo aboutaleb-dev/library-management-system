@@ -926,7 +926,7 @@
 						{
 							"key": "image",
 							"type": "file",
-							"src": "/D:/Laravel/01 Library Management System/assets/White Book.jpg"
+							"value": null
 						},
 						{
 							"key": "stock",
