@@ -1,14 +1,14 @@
 {
 	"info": {
-		"_postman_id": "f1fe541f-6df8-4545-80a8-77c470fdc673",
+		"_postman_id": "f034ffa6-b8e5-4014-9ace-359e5bc97574",
 		"name": "Library Management System",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "25911254-f1fe541f-6df8-4545-80a8-77c470fdc673"
+		"_uid": "25911254-f034ffa6-b8e5-4014-9ace-359e5bc97574"
 	},
 	"item": [
 		{
 			"name": "User / Signup",
-			"id": "9d163cf8-5f91-4ac0-8920-50ef557ef77c",
+			"id": "a8981b23-f28a-4b3b-8fe7-b620a422f898",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -51,7 +51,7 @@
 		},
 		{
 			"name": "User / Resend OTP",
-			"id": "a1272645-ab67-4eeb-9b6f-557e7ba5bb68",
+			"id": "9037f5ac-c8af-40e1-80b2-d0f61046b619",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -94,7 +94,7 @@
 		},
 		{
 			"name": "User / Verify Email",
-			"id": "f48826e7-1d8e-4082-a01e-550ad600ddb5",
+			"id": "dff9ee56-1dc0-4529-b069-2c268a0eac39",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -137,7 +137,7 @@
 		},
 		{
 			"name": "User / Set Password",
-			"id": "75f31154-bc59-4b73-a0a0-b09c5dbc2dc3",
+			"id": "283309a9-3910-4bb2-a669-594464ad66c6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -190,7 +190,7 @@
 		},
 		{
 			"name": "User / Login",
-			"id": "c089727d-11d7-4bdb-b5c4-011535925f4b",
+			"id": "646d0ab9-4d4b-4bef-95a4-0b6ba64264d8",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -233,7 +233,7 @@
 		},
 		{
 			"name": "User / Logout",
-			"id": "2e30dfed-60a5-4ff7-bcd7-b88484c3a4a2",
+			"id": "8ad53f8d-7d05-42af-8504-9a1b90627f3f",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -277,7 +277,7 @@
 		},
 		{
 			"name": "User / Profile",
-			"id": "88bf5e8c-fb25-448f-8085-e5aeed15b833",
+			"id": "cf31d6b2-d600-4e49-bd42-d1cf46f675ea",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -321,7 +321,7 @@
 		},
 		{
 			"name": "User / Borrow",
-			"id": "17dda246-c320-4d22-abaf-143b1c797fbc",
+			"id": "7c4cd92f-31c4-4d20-bcfc-0efd77dbf5f7",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -374,7 +374,7 @@
 		},
 		{
 			"name": "Admin / Login",
-			"id": "42c6a449-5678-4505-aa37-88b931848e7d",
+			"id": "09dce1e9-dd80-4595-a1ab-0a079eda538e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -417,7 +417,7 @@
 		},
 		{
 			"name": "Admin / Logout",
-			"id": "c801faf7-95e5-4cdb-a29d-0e10c928f422",
+			"id": "c4f5b78f-2f23-4b12-af77-975a655a1741",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -461,7 +461,7 @@
 		},
 		{
 			"name": "Admin / Borrowed Returned",
-			"id": "6c3b62db-279d-40d5-a5bd-01f642cf6cf7",
+			"id": "ff27eb34-e7b3-4219-8f37-385ab4b297e2",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -514,7 +514,7 @@
 		},
 		{
 			"name": "Admin /  Books with Expiration Date Today",
-			"id": "da857b10-2840-42b8-9681-89060b59dc38",
+			"id": "dbc59795-131d-4034-bdc3-5cd75e9bf611",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -568,7 +568,7 @@
 		},
 		{
 			"name": "Admin / User Costs",
-			"id": "5f33c42a-ed82-4ed3-b159-90c87094bf6b",
+			"id": "dd4fd07c-492b-49ec-adb1-05a3bf8f90c5",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -617,7 +617,7 @@
 		},
 		{
 			"name": "Admin / Cost Paid",
-			"id": "b285d691-10b3-4c32-be5a-ca79f5180cf6",
+			"id": "f6eab9ac-0637-4efc-8164-2d9213671d66",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -670,7 +670,7 @@
 		},
 		{
 			"name": "Admin / Show All Users",
-			"id": "dfe1d539-a3b8-487b-bcdf-263e9d5fb556",
+			"id": "7348e580-b188-4dd6-96db-b68b1f599780",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -714,7 +714,7 @@
 		},
 		{
 			"name": "Admin / Dactivate User",
-			"id": "4f12c97c-178a-4bc0-a607-03254196da69",
+			"id": "7eab611e-f492-4ef0-ac02-93ec3dd93275",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -767,7 +767,7 @@
 		},
 		{
 			"name": "Admin / Activate User",
-			"id": "aa53dbd8-29be-40c8-a24c-7baf5e19fec3",
+			"id": "305a7d66-ff78-4b25-99c8-fd0242c36207",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -820,7 +820,7 @@
 		},
 		{
 			"name": "Books / Show All",
-			"id": "63201127-b666-4bfe-ac91-271500178e2b",
+			"id": "b0207bd6-5d96-432c-8e52-754a6724d5c2",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -853,7 +853,7 @@
 		},
 		{
 			"name": "Books / Show by Id",
-			"id": "8e35021c-43ca-4de3-a07f-28596b299bc7",
+			"id": "660ef39d-0bef-42fb-91e2-9d137db47b2c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -887,7 +887,7 @@
 		},
 		{
 			"name": "Books / Add",
-			"id": "fc8a3318-545c-464c-9e0b-f63b270b1a72",
+			"id": "1d397ee3-8fe0-419a-b163-cfa16c467db2",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -955,7 +955,7 @@
 		},
 		{
 			"name": "Books / Update by Id",
-			"id": "26fe6ed9-b372-4c22-af3a-55417705d133",
+			"id": "36a919cd-1817-4672-8952-41ff3b8c4dd3",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -1024,7 +1024,7 @@
 		},
 		{
 			"name": "Books / Delete by Id",
-			"id": "b2d919f9-9498-4c62-bb21-4b7e512cb335",
+			"id": "39c56c64-14dd-43d5-90f0-5762b0a461a1",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
