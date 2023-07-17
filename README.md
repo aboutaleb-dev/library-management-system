@@ -10,8 +10,9 @@ Doing the process for borrowing book library by users, adding book and its stock
 ## User Features
 
 - **Signup by email with validating the email first. validation will be done by sending OTP code to user email.**
-- **Set Password After validation is done.**
+- **Set password After validation is done.**
 - **Login with Email and password.**
+- **Reset password.**
 - **Borrow book from library.**
 - **Logout.**
 
@@ -157,5 +158,5 @@ php artisan migrate:fresh --seed
 
 ## Postman Api
 
-You can find postman collection file in postman/collections folder.
+You can find postman collection in **postman/collections** directory, file is named **Library Management System.json**.
 This postman collection has all of apis requests with their method, body, etc.
