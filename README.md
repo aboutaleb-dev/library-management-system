@@ -159,4 +159,4 @@ php artisan migrate:fresh --seed
 ## Postman Api
 
 You can find postman collection in **postman/collections** directory, file is named **Library Management System.json**.
-This postman collection has all of apis requests with their method, body, etc.
+This postman collection has all of api requests with their method, body, etc.
